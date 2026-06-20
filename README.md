@@ -57,8 +57,3 @@ Best observed results:
 > Note: The dataset is highly imbalanced, so accuracy is not a reliable metric.
 
 ---
-
-
-
-
-pip install pandas numpy scikit-learn matplotlib seaborn kagglehub
